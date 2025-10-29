@@ -1,1 +1,1 @@
-This is the link of Explaination video--->https://drive.google.com/file/d/11x4VwtQtDekyaMO46HjtZ_wtBBNmooQn/view?usp=sharing
+This is the link of explained video--->https://drive.google.com/file/d/11x4VwtQtDekyaMO46HjtZ_wtBBNmooQn/view?usp=sharing
