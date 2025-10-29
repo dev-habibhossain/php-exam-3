@@ -6,10 +6,7 @@ use Illuminate\Http\Request;
 
 class PortfolioController extends Controller
 {
-    public function home()
-    {
-        return view('Portfolio.layouts.app');
-    }
+    
 
     public function index()
     {
